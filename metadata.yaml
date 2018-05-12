@@ -1,0 +1,31 @@
+_repo: The-Lord-of-GloryMeditations-on-the-person-the-work-and-glory-of-our-Lord-Jesus-Christ_29557
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaebelein, Arno Clemens
+    alias: Gaebelein, Arno C. (Arno Clemens)
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '32143'
+    url: http://www.gutenberg.org/2009/agents/32143
+description: ''
+gutenberg_issued: '2009-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29557'
+  lccn: '17021176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Person and offices'
+- !lcsh 'Jesus Christ -- Meditations'
+title: 'The Lord of Glory
+
+  Meditations on the person, the work and glory of our Lord Jesus Christ'
+url: http://www.gutenberg.org/ebooks/29557
