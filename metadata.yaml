@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32143'
     url: http://www.gutenberg.org/2009/agents/32143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29557#The-Lord-of-GloryMeditations-on-the-person-the-work-and-glory-of-our-Lord-Jesus-Christ
 gutenberg_issued: '2009-07-31'
 gutenberg_type: Text
 identifiers:
